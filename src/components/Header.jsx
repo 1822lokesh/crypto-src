@@ -32,7 +32,7 @@ export default function Header() {
         color="transparent"
         elevation={0}
         sx={{
-          borderBottom: "1px solid #b7afafff",
+          borderBottom: "1px solid #ecebebff",
           height: "64px",
           display: "flex",
           justifyContent: "center",
@@ -61,7 +61,7 @@ export default function Header() {
                   width: 220,
                   height: 36,
                   borderRadius: 5,
-                  bgcolor: "#f3f3f3",
+                  bgcolor: "#ffffffff",
                   px: 1.5,
                 }}
               >
